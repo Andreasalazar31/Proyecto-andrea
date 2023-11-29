@@ -1,0 +1,53 @@
+.perez{
+    position: absolute;
+    text-align: center;
+    top: 300px;
+    left: 1200px;
+    font-size: 150%;
+}
+
+.hg{
+    text-align: center;
+    position: absolute;
+    top: 330px;
+    left: 1360px;
+  font-size: 100%;
+}
+.ty{
+    height: 5px;
+    background-color: rgb(11, 11, 11);
+    width: 600px;
+    top: 370px;
+    left: 900px;
+    position: absolute;
+}
+
+.te{
+    position: absolute;
+    
+    top: 400px;
+    left: 910px;
+    font-size: 150%;
+}
+
+.yu{
+    position: absolute;
+    
+    top: 460px;
+    left: 900px;
+    font-size: 130%;
+}
+.ws{
+    position: absolute;
+    
+    top: 500px;
+    left: 899px;
+    font-size: 130%;
+}
+.za{
+    position: absolute;
+    
+    top: 540px;
+    left: 899px;
+    font-size: 130%;
+}
